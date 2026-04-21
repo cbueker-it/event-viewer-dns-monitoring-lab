@@ -11,7 +11,7 @@ Lab Objectives
 - Identify a DNS warning event
 - Examine Event ID 1014 details
 - Interpret what the warning means
-- Run nslookup to test live DNS resolution
+- Run `nslookup` to test live DNS resolution
 - Compare logged event data with current system behavior
 - Event Viewer Review
 
