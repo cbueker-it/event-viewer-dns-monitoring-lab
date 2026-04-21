@@ -41,7 +41,7 @@ Skills Practiced
 - Windows Event Viewer
 - DNS troubleshooting
 - Event interpretation
-- nslookup
+- `nslookup`
 - Windows Server administration
 - Verification before escalation
 
